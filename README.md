@@ -31,6 +31,12 @@
 
 <h3 align="left">Some of my projects:</h3>
 
+<h4 align="left">App-Clima "Air Balloon Weather"</h4>
+
+![image](https://user-images.githubusercontent.com/91910994/154999811-2a966943-5914-40e1-838f-f7abd2fd0e3d.png)
+
+<h4 align="left">App-Countries "Black Flag"</h4>
+
 ![image](https://user-images.githubusercontent.com/91910994/154999642-662b82fc-331e-435d-9e8a-645fd5974648.png)
 
 
