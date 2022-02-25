@@ -38,6 +38,4 @@
 
 ![image](https://user-images.githubusercontent.com/91910994/154999642-662b82fc-331e-435d-9e8a-645fd5974648.png)
 
-![portfolio](https://user-images.githubusercontent.com/91910994/155761756-7cf4124a-0a56-495d-b6a0-b6a28f65d997.png)
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peccosbill&show_icons=true&locale=en&layout=compact" alt="peccosbill" /></p>
