@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Black Flag](https://black-flag.vercel.app/)
 
-- 🌱 I’m currently learning **Tailwind, TypeScript**
+- 🌱 I’m currently learning **Tailwind, TypeScript, Kotlin**
 
 - 📫 How to reach me **jonathanmontini95@icloud.com**
 
