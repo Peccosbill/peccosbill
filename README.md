@@ -36,7 +36,8 @@
 
 <h2 align="left">Kipt</h4>
 
-![Uploading image.png…]()
+![Captura de pantalla 2022-04-18 230800](https://user-images.githubusercontent.com/91910994/163905942-2bd7c852-60f1-4b6a-b874-e35cd3996570.png)
+
 
 <h2 align="left">App-Countries "Black Flag"</h4>
 
