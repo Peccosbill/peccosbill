@@ -34,7 +34,7 @@
 
 ![Captura de pantalla 2022-04-01 104802](https://user-images.githubusercontent.com/91910994/161277109-e41a2f86-b8f4-4f9f-a49a-50aca23c5fbc.png)
 
-<h2 align="left">Kipt</h4>
+<h2 align="left">Kript</h4>
 
 ![Captura de pantalla 2022-04-18 230800](https://user-images.githubusercontent.com/91910994/163905942-2bd7c852-60f1-4b6a-b874-e35cd3996570.png)
 
